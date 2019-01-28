@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Valuta App</string>
+    <string name="from_to_str">FROM/TO</string>
+    <string name="digit">0.0</string>
+</resources>
